@@ -2,7 +2,7 @@
 ![MasterHead](https://camo.githubusercontent.com/b1cceede14714a16f2059b73da1725d9892bf506a0928412f53f5e097c0455a6/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f666f726d61743a776562702f312a797730546e686541474e2d4c506e654461546c6178772e676966)
 
 <h1 align="center">Hi 👋, I'm Amal</h1>
-<h3 align="center">A passionate react developer from Tunisia</h3>
+<h3 align="center">A passionate MERN developer from Tunisia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6ad39f394cbd2bf062af962637ab33355b02d54192c9d8202c18428de156b129/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f666f726d61743a776562702f302a7942764135436e455833536434616f642e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amal-amama&label=Profile%20views&color=0e75b6&style=flat" alt="amal-amama" /> </p>
