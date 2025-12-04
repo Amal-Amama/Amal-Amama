@@ -2,22 +2,24 @@
 ![MasterHead](https://camo.githubusercontent.com/b1cceede14714a16f2059b73da1725d9892bf506a0928412f53f5e097c0455a6/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f666f726d61743a776562702f312a797730546e686541474e2d4c506e654461546c6178772e676966)
 
 <h1 align="center">Hi 👋, I'm Amal</h1>
-<h3 align="center">A passionate MERN developer from Tunisia</h3>
+<h3 align="center">React & Spring Boot Developer | Building full-stack solutions with passion 🚀</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6ad39f394cbd2bf062af962637ab33355b02d54192c9d8202c18428de156b129/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f666f726d61743a776562702f302a7942764135436e455833536434616f642e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amal-amama&label=Profile%20views&color=0e75b6&style=flat" alt="amal-amama" /> </p>
 
-- 🔭 I’m currently working on **WorldWise**
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Jonas's React Course: Advanced React.js Features (Redux)**
+- 🌱 Currently mastering **React + Spring Boot full-stack development**
+  
+- 💻 Love building clean, scalable, production-ready applications
+   
+- 💬 Ask me about **React, Spring Boot, REST APIs, Docker**
+  
+- 📫 Reach me: **amalamama5@gmail.com**
+  
+- ⚡ Fun fact: **I fix bugs faster than I find my keys 🔑😂**
 
-- 💬 Ask me about **React,Node, MEARN**
-
-- 📫 How to reach me **amalamama5@gmail.com**
-
-- ⚡ Fun fact **I'm better at fixing bugs than finding my keys!**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with Me</h3>
 <p align="left">
 <a href="https://codepen.io/amal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amal amema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amal amema" height="30" width="40" /></a>
