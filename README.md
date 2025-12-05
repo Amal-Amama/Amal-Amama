@@ -43,6 +43,12 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
-  
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amal-amama&show_icons=true&theme=default" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal-amama&layout=compact" height="180" />
+</p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amal-amama&" alt="amal-amama" /></p>
 
