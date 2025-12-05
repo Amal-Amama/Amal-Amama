@@ -22,7 +22,7 @@
 <h3 align="left">🌐 Connect with Me</h3>
 <p align="left">
 <a href="https://codepen.io/amal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amal amema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amal amema" height="30" width="40" /></a>
+<a href=<a href="https://linkedin.com/in/amal-amema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amal amema" height="30" width="40" /></a>
 <a href="https://codesandbox.com/amal amama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="amal amama" height="30" width="40" /></a>
 </p>
 
@@ -51,4 +51,6 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amal-amama&" alt="amal-amama" /></p>
+---
+⭐️ From [Amal Amama](https://github.com/amal-amama)
 
