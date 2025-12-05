@@ -17,7 +17,7 @@
   
 - 📫 Reach me: **amalamama5@gmail.com**
   
-- ⚡ Fun fact: **I fix bugs faster than I find my keys 🔑😂**
+- ⚡ Fun fact: **I enjoy understanding how things work more than using them.🆕✨**
 
 <h3 align="left">🌐 Connect with Me</h3>
 <p align="left">
